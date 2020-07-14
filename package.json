@@ -1,0 +1,19 @@
+{
+  "name": "phone_number_provider",
+  "version": "1.0.0",
+  "description": "this is a package to check for the provider details of a given phone number this details include country and provider-name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kibetchirchir/phone_number_provider.git"
+  },
+  "author": "kibetchirchir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kibetchirchir/phone_number_provider/issues"
+  },
+  "homepage": "https://github.com/Kibetchirchir/phone_number_provider#readme"
+}
